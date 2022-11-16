@@ -1,0 +1,1 @@
+function calculaTotalLeds(altura, largura) {}
